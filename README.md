@@ -1,4 +1,4 @@
-# STEP 螺纹孔检测工具 v2.0 (PyQt5 + pythonOCC)
+# STEP 螺纹孔检测工具 (PyQt5 + pythonOCC)
 
 一个基于 **PyQt5** 与 **pythonocc-core（OpenCASCADE）** 的桌面工具，用于加载 CAD 模型并自动识别圆柱螺纹孔（基于圆柱面特征），支持表格/三维联动高亮、误检孔删除、数据导出、模型半透明显示，以及 PyInstaller 打包发布。
 
